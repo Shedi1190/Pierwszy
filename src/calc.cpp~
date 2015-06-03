@@ -17,3 +17,7 @@ int Calculator::fac(int n)
 std::cout<<"Cos ma sie pokazac"<<endl;
 	return -1;
 }
+int Calculator::add(int a, int b)
+{
+return a+b;
+}
